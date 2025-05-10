@@ -10,8 +10,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 - [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
-- [What I learned](#what-i-learned)
-- [Continued development](#continued-development)
 - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -42,13 +40,17 @@ Users should be able to:
 
 ### Built with HTML- Bootstrap
 
+- Project taken from Frontend mentor
+- Analysed the Jpg given to create sections
+- Library added for Bootstrap
+- Divided the sections to create
 - Semantic HTML5 markup
-- CSS custom style properties
-- Flexbox
+- Added CSS custom style properties
+- Added flexbox properties
 - CSS Grid
 - Desktop based design
 - Bootstrap
-
+- Added Finished design snips
 
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
@@ -56,13 +58,13 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Useful resources
 
-- [W3 Schools] (https://www.w3schools.com/bootstrap/default.asp) - I used this for content and design format.
+- W3 Schools- (https://www.w3schools.com/bootstrap/default.asp) - I used this for content and design format.
 - [Boostrap Utilities and background colors ](https://getbootstrap.com/docs/5.3/utilities/background/) - This is an amazing article which helped me with finding right colrs and and background pitch with bootstrap libraries to use.
 
 
-## Author
+## Author Asim Daud Khan
 
-- Website - [Asim Daud Khan] (http://127.0.0.1:5500/Mod3/clipboard-landing-page-master/clipboard-landing-page-master/index.html)
+- Website - [Clippboard-Landing-Page] (http://127.0.0.1:5500/Mod3/clipboard-landing-page-master/clipboard-landing-page-master/index.html)
 
 
 
